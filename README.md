@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sneha Ramesh</h1>
 <h3 align="center">A passionate Web developer from India</h3>
-- 🌱 I’m currently learning **machine learning,ReactJS**
 
 - 📫 How to reach me **sneharamesh.dev@gmail.com**
 
